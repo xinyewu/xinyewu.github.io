@@ -4,16 +4,7 @@
   <url>
     <loc>http://xinyewuchen.cn/manifest.json</loc>
     
-    <lastmod>2023-11-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://xinyewuchen.cn/baidu_verify_codeva-oNSDFMHpis.html</loc>
-    
-    <lastmod>2023-11-18</lastmod>
+    <lastmod>2023-11-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,25 @@
   <url>
     <loc>http://xinyewuchen.cn/posts/4a17b156.html</loc>
     
-    <lastmod>2023-11-14</lastmod>
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinyewuchen.cn/posts/d87f7e0c.html</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://xinyewuchen.cn/baidu_verify_codeva-oNSDFMHpis.html</loc>
+    
+    <lastmod>2023-11-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,11 +40,18 @@
 
   <url>
     <loc>http://xinyewuchen.cn/</loc>
-    <lastmod>2023-11-19</lastmod>
+    <lastmod>2023-11-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://xinyewuchen.cn/tags/%E5%AE%A0%E7%89%A9/</loc>
+    <lastmod>2023-11-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
